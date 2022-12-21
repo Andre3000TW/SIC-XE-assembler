@@ -1,7 +1,3 @@
-/*
- * SIC/XE_lexical_analyzer
- * 10520113, 郭子正, 資工三甲
- */
 #include <string>
 #include <vector>
 #include <cstring>
